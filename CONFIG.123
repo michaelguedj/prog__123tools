@@ -1,5 +1,5 @@
 
-name;example
-alias;example1.sh;example1
-alias;example2.sh;example2
+name; example
+alias; example1.sh; example1; bash
+alias; example2.sh; example2; bash
 
